@@ -3,5 +3,4 @@ def reverse_each_word(string)
   new.collect do
     |new| new.reverse
   end
-  new.join  
 end
